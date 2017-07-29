@@ -1,6 +1,6 @@
 # wikisearch
 
-You try it out here https://tranjt.github.io/wikisearch/
+You can try it out here https://tranjt.github.io/wikisearch/
 
 
 FCC wiki search project 
